@@ -24,7 +24,7 @@ def call(Map config) {
             stage('Playbook Execution') {
                 steps {
                     echo "Executing Ansible Playbook..."
-                    sh "ansible-playbook -i ${config.CODE_BASE_PATH}/inventory ${config.CODE_BASE_PATH}/site.yml"
+                    sh "ansible-playbook -i /var/lib/jenkins/workspace/Sonarqube_roles/inventory /var/lib/jenkins/workspace/Sonarqube_roles/sonar.yaml "
                 }
             }
             
