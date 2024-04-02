@@ -1,7 +1,9 @@
-stage('Approval') {
-   steps {
-     script {
-        input message: 'Approve deployment?', ok: 'Approve'
-     }
-   }
+def call() {
+    stage('Approval') {
+        steps {
+            script {
+                input message: 'Approve deployment?', ok: 'Approve'
+            }
+        }
+    }
 }
