@@ -1,9 +1,3 @@
-def call() {
-    stage('Approval') {
-        steps {
-            script {
-                input message: 'Approve deployment?', ok: 'Approve'
-            }
-        }
-    }
+def call () {
+    input(message: 'Do you want to continue ?', ok: 'Yes', submitter: 'admin')
 }
