@@ -1,0 +1,6 @@
+---
+- name: Installing SonarQube
+  hosts: node3
+  become: true
+  roles:
+    - Sonarqube_roles

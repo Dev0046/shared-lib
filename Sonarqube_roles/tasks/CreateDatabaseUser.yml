@@ -1,0 +1,12 @@
+---
+- name: Create Sonar user if it doesn't exist
+  shell: su - postgres -c "psql -c \"CREATE USER {{ sonar_pgsql_username }} SUPERUSER;\""
+ 
+- name: Set password for Sonar user
+  shell: su - postgres -c "psql -c \"ALTER USER {{ sonar_pgsql_username }} WITH PASSWORD '{{ sonar_pgsql_password }}';\""
+
+- name: Create Sonar database if it doesn't exist
+  shell: su - postgres -c "psql -c \"CREATE DATABASE {{ sonar_pgsql_database }} OWNER {{ sonar_pgsql_username }};\""
+
+- name: Change owner of Sonar database if user exists and database exists
+  shell: su - postgres -c "psql -c \"ALTER DATABASE {{ sonar_pgsql_database }} OWNER TO {{ sonar_pgsql_username }};\""
