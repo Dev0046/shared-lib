@@ -1,3 +1,3 @@
  def call() {
-    sh 'ansible-playbook -i /var/lib/jenkins/inventory  /var/lib/jenkins/sonar.yaml'
+    sh 'ansible-playbook -i /var/lib/jenkins/workspace/inventory  /var/lib/jenkins/workspace/sonar.yaml'
  }
