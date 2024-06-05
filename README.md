@@ -57,17 +57,18 @@ The Frontend Web is a ReactJS-based application that serves as the main user int
     
 **This command adds the Node.js repository (NodeSource) to the system's package sources and configures it for Node.js version 16.x.**
 
-![alt text](image.png)
+![alt text](1.png)
 
       sudo apt install nodejs -y
-        
+
+   ![alt text](2.png)     
 **Installs Node.js on the system. The '-y' flag automatically confirms any prompts during the installation process, allowing it to proceed without user intervention.**
 
         node -v
         
    **Checks the installed version of Node.js and prints it to the console.**
 
-![image](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/assets/153828272/84d0861b-b748-4f3a-a27f-e0e66088bf57)
+![alt text](3.png)
 
 
 - **Install npm**
@@ -85,20 +86,19 @@ The Frontend Web is a ReactJS-based application that serves as the main user int
 
   - Clone the repository
 
-        git clone https://github.com/OT-MICROSERVICES/frontend.git
+     git clone https://github.com/OT-MICROSERVICES/frontend.git
 
 **This Clones the repository located at the specified URL in the local machine.**
 
-![image](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/assets/153828272/74fd000d-c4b8-43d4-9a5f-10915f3f6779)
+![alt text](4.png)
+
 
     
 **Create folder in cloned repository with a name "public"**
 
         mkdir public
 
-![image](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/assets/153828272/30a12f36-dd18-4a1d-bd24-97fbceff7fe2)
-
-![image](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/assets/153828272/6442830b-e769-47d8-9ebb-418d74e88b49)
+![alt text](5.png)
 
     
 **Under the public folder create [index.html](https://github.com/react-cosmos/create-react-app-example/blob/master/public/index.html)**
@@ -111,12 +111,11 @@ The Frontend Web is a ReactJS-based application that serves as the main user int
 
         vim index.html
 
-![image](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/assets/153828272/7c2a7303-9d7e-4427-b459-2e2b73ee180b)
 
+![alt text](6.png)
 
 **Open TCP port 3000 in security group**
-
-![image](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/assets/153828272/a4709996-92a0-473b-b6a1-b8a58e59b9d3)
+![alt text](6.1.png)
 
 
 
@@ -126,7 +125,7 @@ The Frontend Web is a ReactJS-based application that serves as the main user int
         
 **Installs project dependencies listed in the package.json file. It creates a 'node_modules' directory and downloads the required packages into it.**
 
-![Screenshot from 2024-03-21 02-13-55](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/assets/153828272/f8818f37-1f15-49da-9aea-48166259e045)
+![alt text](7.png)
 
 
 
@@ -135,27 +134,25 @@ The Frontend Web is a ReactJS-based application that serves as the main user int
 **Executes the "start" script defined in the package.json file. This typically starts the development server or runs the application in a development environment.**
 
 
-![Screenshot from 2024-03-21 02-45-20](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/assets/153828272/4af8a8d9-1059-4110-b24d-9f2f772c5c64)
+![alt text](8.png)
 
 
-        npm run build
+        serve -s build
 
 
-**Executes the "build" script defined in the package.json file. This script is often used to generate a production-ready build of the application by bundling and optimizing the source code.**
+**The command serve -s build serves the contents of the build directory as a static web server using the serve package. It serves the files in the build directory on a local server, making them accessible through a web browser.**
 
+![alt text](9.png)
 
-![Screenshot from 2024-03-21 02-44-58](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/assets/153828272/17582a82-6d4e-4976-b46e-0ceccd5ae966)
 
 
 ## :question: 6) Troubleshooting
 
 
-In the **src** directory, there are several files such as EmployeeList.js, ListSalary.js, AttendanceList.js, EmployeeForm.js, AttendanceForm.js, App.react.js, EmployeeData.js, HomePage.react.js, and SiteWrapper.react.js. Within these files, certain words are defined on lines 1 and 2 that are not being used, resulting in errors. 
+In the **OT-MIcroservicres/frontend** directory, there are several files available but the public folder and index.html is missing so that is showing error for fixing this i search for the default index.html file and put it in the public folder then the application is easily accesible and up and Running.
 
 For further details, please refer to the screenshots.
 
  - ### **Errors**
 
-![image](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/assets/153828272/66d65582-4f97-402c-b85e-718a9fb81856)
-
-![image](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/assets/153828272/fabe0df6-8626-4262-a2bc-2bccb25f14e8)
+![alt text](error.png)
