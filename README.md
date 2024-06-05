@@ -18,7 +18,7 @@ The Frontend Web is a ReactJS-based application that serves as the main user int
 | 4.  | [Configuration](#book-4-configuration)               |
 | 5.  | [Start/Build Application](#notebook-5-startbuild-application) |
 | 6.  |  [Troubleshooting](#question-6-troubleshooting)         |
-| 7.  |  [Final Output](#green_book-9-final-output)           |
+| 7.  |  [Final Output](#clipboard-7-Final-output)           |
 | 8.  | [Contact Information](#phone-11-contact-information) |
 | 9. |  [Reference Links](#clipboard-12-reference-links)     |
 
@@ -157,7 +157,7 @@ For further details, please refer to the screenshots.
 ![alt text](error.png)
 
 
-## :question: 7) Final Output
+## :clipboard: 7) Final Output
 
 **When we hit the 3.157.109.150:3000 this shows the react.js app up&running**
 
@@ -165,14 +165,14 @@ For further details, please refer to the screenshots.
 
 
 
-## :question: 8) Contact Information
+## :information_desk_person: 8) Contact Information
 
 | Name| Email Address      |
 |-----|--------------------------|
 | Dev  |  dev.gautam.snaatak@mygurukulam.co          | 
 
 
-## :link: 9) Refrence Links
+## :question: 9) Refrence Links
 
 | Links | Description      |
 |-----  |--------------------------|
