@@ -13,15 +13,15 @@ The Frontend Web is a ReactJS-based application that serves as the main user int
 | No. |  Index                                                                                                                                                     |
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.  | [Key Features](#key-1-key-features)                   |
-| 2.  |  [Pre-Requisites](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/blob/main/OT-Microservices/Frontend/POC/frontend_poc.md#closed_book-2-pre-requisites)         |
-| 3.  |  [Installation steps](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/blob/main/OT-Microservices/Frontend/POC/frontend_poc.md#blue_book-3-installation-steps) |
-| 4.  | [Configuration](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/blob/main/OT-Microservices/Frontend/POC/frontend_poc.md#book-4-configuration)               |
-| 5.  | [Start/Build Application](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/blob/main/OT-Microservices/Frontend/POC/frontend_poc.md#notebook-5-startbuild-application) |
-| 6.  |  [Troubleshooting](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/edit/main/OT-Microservices/Frontend/POC/frontend_poc.md#question-6-troubleshooting)         |
-| 7.  |  [Final Output](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/blob/main/OT-Microservices/Frontend/POC/frontend_poc.md#green_book-9-final-output)           |
-| 8.  |  [Conclusion](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/blob/main/OT-Microservices/Frontend/POC/frontend_poc.md#bookmark_tabs-10-conclusion)           |
-| 9.  | [Contact Information](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/blob/main/OT-Microservices/Frontend/POC/frontend_poc.md#phone-11-contact-information) |
-| 10. |  [Reference Links](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/blob/main/OT-Microservices/Frontend/POC/frontend_poc.md#clipboard-12-reference-links)     |
+| 2.  |  [Pre-Requisites](#closed_book-2-pre-requisites)         |
+| 3.  |  [Installation steps](#blue_book-3-installation-steps) |
+| 4.  | [Configuration](#book-4-configuration)               |
+| 5.  | [Start/Build Application](#notebook-5-startbuild-application) |
+| 6.  |  [Troubleshooting](#question-6-troubleshooting)         |
+| 7.  |  [Final Output](#green_book-9-final-output)           |
+| 8.  |  [Conclusion](#bookmark_tabs-10-conclusion)           |
+| 9.  | [Contact Information](#phone-11-contact-information) |
+| 10. |  [Reference Links](#clipboard-12-reference-links)     |
 
 
 
