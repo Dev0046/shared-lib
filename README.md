@@ -18,7 +18,7 @@ The Frontend Web is a ReactJS-based application that serves as the main user int
 | 4.  | [Configuration](#book-4-configuration)               |
 | 5.  | [Start/Build Application](#notebook-5-startbuild-application) |
 | 6.  |  [Troubleshooting](#question-6-troubleshooting)         |
-| 7.  |  [Final Output](#green_book-7-final-output)           |
+| 7.  |  [Final Output](#question-7-final-output)           |
 | 8.  |  [Conclusion](#bookmark_tabs-10-conclusion)           |
 | 9.  | [Contact Information](#phone-11-contact-information) |
 | 10. |  [Reference Links](#clipboard-12-reference-links)     |
