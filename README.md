@@ -18,7 +18,7 @@ The Frontend Web is a ReactJS-based application that serves as the main user int
 | 4.  | [Configuration](#book-4-configuration)               |
 | 5.  | [Start/Build Application](#notebook-5-startbuild-application) |
 | 6.  |  [Troubleshooting](#question-6-troubleshooting)         |
-| 7.  |  [Final Output](#question-7-final-output)           |
+| 7.  |  [Final Output](#green_book-9-final-output)           |
 | 8.  |  [Conclusion](#bookmark_tabs-10-conclusion)           |
 | 9.  | [Contact Information](#phone-11-contact-information) |
 | 10. |  [Reference Links](#clipboard-12-reference-links)     |
@@ -57,8 +57,7 @@ The Frontend Web is a ReactJS-based application that serves as the main user int
     
 **This command adds the Node.js repository (NodeSource) to the system's package sources and configures it for Node.js version 16.x.**
 
-![image](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/assets/153828272/4bf1616d-f896-4b55-b3f2-ae25c631ceae)
-
+![alt text](image.png)
 
       sudo apt install nodejs -y
         
@@ -160,5 +159,3 @@ For further details, please refer to the screenshots.
 ![image](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/assets/153828272/66d65582-4f97-402c-b85e-718a9fb81856)
 
 ![image](https://github.com/OT-MyGurukulam/Snaatak_P9_Documentation/assets/153828272/fabe0df6-8626-4262-a2bc-2bccb25f14e8)
-
-## :question: 7) Final Output
