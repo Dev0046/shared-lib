@@ -172,7 +172,7 @@ For further details, please refer to the screenshots.
 | Dev  |  dev.gautam.snaatak@mygurukulam.co          | 
 
 
-## :question: 9) Refrence Links
+## :link: 9) Refrence Links
 
 | Links | Description      |
 |-----  |--------------------------|
